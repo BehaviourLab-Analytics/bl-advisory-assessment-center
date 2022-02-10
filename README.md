@@ -19,7 +19,7 @@ In this directory you will find an excel file called `DataSetAssessmentCentreBL.
 
 The question we are looking you to solve for is; to identify what you see as the top 3 investments decisions on the fund.
 
-This assessment will take just over an hour; during which you will be expected to use Python to solve for the problem. Talk us through your thinking and explain your thought process as much as possible
+This assessment will take 1 hour and a half; during which you will be expected to use Python to solve for the problem. Talk us through your thinking and explain your thought process as much as possible
 
 We will be looking for you to present on the following:
 
